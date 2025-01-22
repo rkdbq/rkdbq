@@ -26,7 +26,7 @@
 ![Static Badge](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=PyTorch&logoColor=white&labelColor=%23EE4C2C&color=%23EE4C2C)
 ![Static Badge](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=Flask&logoColor=white&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=%23232F3E&color=%23232F3E)
-![Static Badge](https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=black&labelColor=%23FFFFFF&color=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=white&labelColor=%23000000&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/WebGL-111111?style=flat-square&logo=webgl&logoColor=white&labelColor=%23990000&color=%23990000)
 
 ![Static Badge](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
