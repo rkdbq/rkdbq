@@ -6,7 +6,9 @@
   ![Static Badge](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin&logoColor=white&labelColor=%237F52FF&color=%237F52FF)
   ![Static Badge](https://img.shields.io/badge/Android-111111?style=flat-square&logo=android&logoColor=white&labelColor=%2334A853&color=%2334A853)
   
-  ## 🌳 Skills
+  ## Skills
+
+  ### 🌳
   
   ### Languages
   
