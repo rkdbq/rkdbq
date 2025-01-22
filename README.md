@@ -1,7 +1,7 @@
-<div align=center>
+<div align=left>
   
-  ## Currently learning
-  
+  ## Currently learning @ Samsung SW Academy for Youth
+
   ![Static Badge](https://img.shields.io/badge/Java-111111?style=flat-square&labelColor=%235382a1&color=%235382a1)
   ![Static Badge](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin&logoColor=white&labelColor=%237F52FF&color=%237F52FF)
   ![Static Badge](https://img.shields.io/badge/Android-111111?style=flat-square&logo=android&logoColor=white&labelColor=%2334A853&color=%2334A853)
