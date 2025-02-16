@@ -24,18 +24,22 @@
   
   
   ##### 🌱
-  
-  ![Static Badge](https://img.shields.io/badge/PyTorch-111111?style=flat&logo=PyTorch&logoColor=white&labelColor=%23EE4C2C&color=%23EE4C2C)
-  ![Static Badge](https://img.shields.io/badge/Flask-111111?style=flat&logo=Flask&logoColor=white&labelColor=%23000000&color=%23000000)
-  ![Static Badge](https://img.shields.io/badge/AWS-111111?style=flat&logo=amazonwebservices&logoColor=white&labelColor=%23232F3E&color=%23232F3E)
-  ![Static Badge](https://img.shields.io/badge/Unity-111111?style=flat&logo=unity&logoColor=white&labelColor=%23000000&color=%23000000)
-  ![Static Badge](https://img.shields.io/badge/WebGL-111111?style=flat&logo=webgl&logoColor=white&labelColor=%23990000&color=%23990000)
-  
+
+  ##### Languages
+
   ![Static Badge](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
   ![Static Badge](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6)
   ![Static Badge](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=white&labelColor=%23F7DF1E&color=%23F7DF1E)
-  ![Static Badge](https://img.shields.io/badge/Vue.js-111111?style=flat&logo=vuedotjs&logoColor=white&labelColor=%234FC08D&color=%234FC08D)
   ![Static Badge](https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1)
+
+  ##### Frameworks & Tools
+
+  ![Static Badge](https://img.shields.io/badge/PyTorch-111111?style=flat&logo=PyTorch&logoColor=white&labelColor=%23EE4C2C&color=%23EE4C2C)
+  ![Static Badge](https://img.shields.io/badge/Vue.js-111111?style=flat&logo=vuedotjs&logoColor=white&labelColor=%234FC08D&color=%234FC08D)
+  ![Static Badge](https://img.shields.io/badge/Unity-111111?style=flat&logo=unity&logoColor=white&labelColor=%23000000&color=%23000000)
+  ![Static Badge](https://img.shields.io/badge/AWS-111111?style=flat&logo=amazonwebservices&logoColor=white&labelColor=%23232F3E&color=%23232F3E)
+  ![Static Badge](https://img.shields.io/badge/WebGL-111111?style=flat&logo=webgl&logoColor=white&labelColor=%23990000&color=%23990000)
+  ![Static Badge](https://img.shields.io/badge/Flask-111111?style=flat&logo=Flask&logoColor=white&labelColor=%23000000&color=%23000000)
   ![Static Badge](https://img.shields.io/badge/Hugo-111111?style=flat&logo=hugo&logoColor=white&labelColor=%23FF4088&color=%23FF4088)
   
   
