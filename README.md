@@ -1,11 +1,16 @@
 <div align=left>
+
+  ## About
+  
+  [💼Portfolio
+  ](https://rkdbq.github.io/portfolio/) | [📄Résumé](https://rkdbq.github.io/portfolio/uploads/resume_ENG.pdf) | [👨‍💻LinkedIn](https://www.linkedin.com/in/rkdbq/) | [✉️Email](mailto:rkdbq001011@gmail.com)
   
   ## Currently learning @ Samsung SW Academy for Youth
 
   ![Static Badge](https://img.shields.io/badge/Java-111111?style=flat&labelColor=%235382a1&color=%235382a1)
   ![Static Badge](https://img.shields.io/badge/Kotlin-111111?style=flat&logo=kotlin&logoColor=white&labelColor=%237F52FF&color=%237F52FF)
   ![Static Badge](https://img.shields.io/badge/Android-111111?style=flat&logo=android&logoColor=white&labelColor=%2334A853&color=%2334A853)
-  
+
   ## Skills
 
   ##### Language
